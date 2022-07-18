@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    
+
+    <string name="btnApagarTudo">c</string>
+    <string name="btnIgual">=</string>
+    <string name="btnPonto">.</string>
+
+    <string name="btnUm">1</string>
+    <string name="btnDois">2</string>
+    <string name="btnTres">3</string>
+    <string name="btnQuatro">4</string>
+    <string name="btnCinco">5</string>
+    <string name="btnSeis">6</string>
+    <string name="btnSete">7</string>
+    <string name="btnOito">8</string>
+    <string name="btnNove">9</string>
+    <string name="btnZero">0</string>
+
+
+
+    <string name="btnAdicao">+</string>
+    <string name="btnSubtracao">-</string>
+    <string name="btnDivisao">/</string>
+    <string name="btnMultiplicar">*</string>
+
+    <string name="btnParenteD">)</string>
+    <string name="btnParenteE">(</string>
+
+
+
+    
 </resources>
