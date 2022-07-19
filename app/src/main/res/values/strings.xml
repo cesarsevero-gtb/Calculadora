@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Calculadora</string>
-    
+
+    <string name="display">Digite o Valor</string>
 
     <string name="btnApagarTudo">c</string>
     <string name="btnIgual">=</string>
@@ -26,6 +27,7 @@
 
     <string name="btnParenteD">)</string>
     <string name="btnParenteE">(</string>
+    <string name="backspace"> </string>
 
 
 
